@@ -161,6 +161,7 @@ spring.datasource.url=jdbc:mysql://mysql-dev:3306/bdventas?useSSL=false
 ![Configuración correcta](https://t90131963532.p.clickup-attachments.com/t90131963532/d9c4c1d7-714d-477a-9f21-c9ae5e095824/image.png)
 
 ---
+https://github.com/grisel15naye/docker/blob/main/src/main/resources/application.properties
 
 ## 13. Crear el JAR del proyecto
 
