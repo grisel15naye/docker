@@ -73,6 +73,7 @@ CREATE DATABASE bdventas;
 ---
 
 ## 6. Crear proyecto en Spring Initializr
+https://github.com/grisel15naye/docker/blob/main/pom.xml
 
 Se genera el proyecto Spring Boot desde **Spring Initializr** con las dependencias necesarias.
 
